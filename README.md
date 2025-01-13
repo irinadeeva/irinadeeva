@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open-source Swift libraries and iOS app development projects.
 - 🤔 I’m looking for a mentor to help me grow as an iOS developer and deepen my understanding of advanced iOS concepts.
 - 💬 Ask me about iOS development, debugging, or creating intuitive user interfaces.
-- 📫 How to reach me: deeva.irina.a@gmail.com or Telegram: @withdeeva
+- 📫 How to reach me: deeva.irina.a@gmail.com or Telegram: @with_deeva
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I love hiking and camping in a tent.
 
